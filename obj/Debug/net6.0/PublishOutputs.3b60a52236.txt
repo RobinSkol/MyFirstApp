@@ -1,0 +1,7 @@
+C:\Users\robin\VSCRepos\MyFirstApp\bin\Debug\net6.0\publish\MyFirstApp.exe
+C:\Users\robin\VSCRepos\MyFirstApp\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\robin\VSCRepos\MyFirstApp\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\robin\VSCRepos\MyFirstApp\bin\Debug\net6.0\publish\MyFirstApp.dll
+C:\Users\robin\VSCRepos\MyFirstApp\bin\Debug\net6.0\publish\MyFirstApp.deps.json
+C:\Users\robin\VSCRepos\MyFirstApp\bin\Debug\net6.0\publish\MyFirstApp.runtimeconfig.json
+C:\Users\robin\VSCRepos\MyFirstApp\bin\Debug\net6.0\publish\MyFirstApp.pdb
